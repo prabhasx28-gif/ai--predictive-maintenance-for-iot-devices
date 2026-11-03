@@ -1,0 +1,6 @@
+{
+  "name": "EdgePulse Industrial Telemetry",
+  "description": "High-frequency machine telemetry, IoT operations, and mission-critical automation infrastructure console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
